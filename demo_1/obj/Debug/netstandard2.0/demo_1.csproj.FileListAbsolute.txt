@@ -1,0 +1,15 @@
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\bin\Debug\netstandard2.0\demo_1.deps.json
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\bin\Debug\netstandard2.0\demo_1.dll
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\bin\Debug\netstandard2.0\ref\demo_1.dll
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\bin\Debug\netstandard2.0\demo_1.pdb
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\demo_1.csproj.AssemblyReference.cache
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\demo_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\demo_1.AssemblyInfoInputs.cache
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\demo_1.AssemblyInfo.cs
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\demo_1.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\demo_1.dll
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\refint\demo_1.dll
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem2\demo_1\demo_1\obj\Debug\netstandard2.0\demo_1.pdb
