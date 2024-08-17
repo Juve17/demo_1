@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|d:\\proyectos\\visual studio\\xamarin\\sem2\\demo_1\\demo_1\\views\\components\\cboton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|solutionrelative:demo_1\\views\\components\\cboton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|d:\\proyectos\\visual studio\\xamarin\\sem2\\demo_1\\demo_1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|solutionrelative:demo_1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|d:\\proyectos\\visual studio\\xamarin\\sem2\\demo_1\\demo_1\\views\\components\\cboton.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|solutionrelative:demo_1\\views\\components\\cboton.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|d:\\proyectos\\visual studio\\xamarin\\sem2\\demo_1\\demo_1\\views\\home\\principal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|solutionrelative:demo_1\\views\\home\\principal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|d:\\proyectos\\visual studio\\xamarin\\sem2\\demo_1\\demo_1\\views\\home\\header.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|solutionrelative:demo_1\\views\\home\\header.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|d:\\proyectos\\visual studio\\xamarin\\sem2\\demo_1\\demo_1\\views\\home\\body.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|solutionrelative:demo_1\\views\\home\\body.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|d:\\proyectos\\visual studio\\xamarin\\sem2\\demo_1\\demo_1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{2996D78D-D415-453E-AA80-C830E12690A3}|demo_1\\demo_1.csproj|solutionrelative:demo_1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +47,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CBoton.xaml.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Components\\CBoton.xaml.cs",
+              "RelativeDocumentMoniker": "demo_1\\Views\\Components\\CBoton.xaml.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Components\\CBoton.xaml.cs",
+              "RelativeToolTip": "demo_1\\Views\\Components\\CBoton.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:33:02.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CBoton.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Components\\CBoton.xaml",
+              "RelativeDocumentMoniker": "demo_1\\Views\\Components\\CBoton.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Components\\CBoton.xaml",
+              "RelativeToolTip": "demo_1\\Views\\Components\\CBoton.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T11:31:22.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Body.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Home\\Body.xaml",
+              "RelativeDocumentMoniker": "demo_1\\Views\\Home\\Body.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Home\\Body.xaml",
+              "RelativeToolTip": "demo_1\\Views\\Home\\Body.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T11:16:27.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Home\\Header.xaml",
+              "RelativeDocumentMoniker": "demo_1\\Views\\Home\\Header.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Home\\Header.xaml",
+              "RelativeToolTip": "demo_1\\Views\\Home\\Header.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T10:42:57.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "demo_1\\App.xaml.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\App.xaml.cs",
+              "RelativeToolTip": "demo_1\\App.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:35:42.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\App.xaml",
+              "RelativeDocumentMoniker": "demo_1\\App.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\App.xaml",
+              "RelativeToolTip": "demo_1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T10:22:52.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Principal.xaml",
               "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Home\\Principal.xaml",
               "RelativeDocumentMoniker": "demo_1\\Views\\Home\\Principal.xaml",
               "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem2\\demo_1\\demo_1\\Views\\Home\\Principal.xaml",
               "RelativeToolTip": "demo_1\\Views\\Home\\Principal.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-17T01:18:13.296Z",
               "EditorCaption": ""

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="demo_1.Views.Home.Header">
+  <ContentView.Content>
+      <StackLayout Margin="0,40">
+          <Label Text="Wanderly" FontAttributes="Bold" FontSize="30" TextColor="{StaticResource PColorFondo}" HorizontalOptions="Center" />
+            <Label HorizontalTextAlignment="Center" TextColor="{StaticResource PColorFondo}" HorizontalOptions="Center" Text="Este es un mesaje de prueba para la clase de seminario 2"/>
+          
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

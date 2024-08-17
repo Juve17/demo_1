@@ -3,6 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="demo_1.App">
     <Application.Resources>
-
+        <Color x:Key="PColor">#048547</Color>
+        <Color x:Key="PColorFondo">#FAFAFB</Color>
+        <Color x:Key="PLetrasNormal">#232323</Color>
+        <Color x:Key="PSubMenu">#B6B6B6</Color>
     </Application.Resources>
 </Application>

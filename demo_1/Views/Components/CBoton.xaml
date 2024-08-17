@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="demo_1.Views.Components.CBoton">
+    <ContentView.Content>
+
+        <Button x:Name="button"
+                Text="Click Me"
+                
+                />
+        <!--
+        BackgroundColor="{Binding BackgroundColor, Source={x:Reference This}}"
+TextColor="{Binding TextColor, Source={x:Reference This}}"
+FontSize="{Binding FontSize, Source={x:Reference This}}"
+BorderColor="{Binding BorderColor, Source={x:Reference This}}"
+CornerRadius="{Binding CornerRadius, Source={x:Reference This}}"
+        -->
+    </ContentView.Content>
+</ContentView>

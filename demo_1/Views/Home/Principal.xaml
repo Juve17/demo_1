@@ -1,12 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="demo_1.Views.Home.Principal">
+             x:Class="demo_1.Views.Home.Principal"
+             xmlns:Home="clr-namespace:demo_1.Views.Home"
+             xmlns:Components="clr-namespace:demo_1.Views.Components"
+             >
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+        <Grid>
+            <Image Source="https://i.pinimg.com/736x/2d/59/a2/2d59a277f904697740a4fb57d69a091b.jpg" Aspect="AspectFill" />
+            <BoxView Color="{StaticResource PLetrasNormal} "></BoxView>
+            <StackLayout>
+            <Image Source="Resources/Images/fondo.jpg" />
+            <Home:Header/>
+            <Label Text="Hol"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+                <Components:CBoton Text="Juvenal" />
+            </StackLayout>
+            
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
